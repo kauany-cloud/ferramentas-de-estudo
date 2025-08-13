@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'historia',
+    'Quem foi o primeiro imperador de Roma?',
+    'Augusto (Octaviano), fundador do Principado.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Diferença entre present simple e present continuous?',
+    'Habits/verdades (I work) vs ações agora (I am working).'
 )
